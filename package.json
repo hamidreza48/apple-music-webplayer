@@ -9,6 +9,7 @@
     "serve": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js"
+    "start": " npm run serve"
   },
   "devDependencies": {
     "ajv": "^6.12.3",
